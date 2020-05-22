@@ -1,2 +1,2 @@
 # data-eng-test-scheduler
-Data Engineering Test - Scheduler
+Data Engineering Test - Relay Scheduler
